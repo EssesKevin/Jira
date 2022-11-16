@@ -1,2 +1,2 @@
 # Jira
-#Látványterv elkészült
+Látványterv elkészült
